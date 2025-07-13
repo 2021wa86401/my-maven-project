@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello Disa! my Maven Project" );
 System.out.println( "CI Trigger Test" );
+        System.out.println( "CI Trigger Test" );
     }
 }
